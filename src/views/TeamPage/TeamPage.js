@@ -31,7 +31,7 @@ function Team () {
 
 
         
-let message='There are many variations of passages of Loren Ipsum available but the \n majority have suffered alteration in some injected humour.';
+let message='The contributors behind the Project.';
     return( 
 
 
